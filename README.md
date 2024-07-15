@@ -1,2 +1,4 @@
-# something-something
-add your name, block, student ID
+# CCS0105_FINAL-PROJECT_TN07
+[DelaCruz, Aiszel John C.]
+[202311047]
+[TN07]
